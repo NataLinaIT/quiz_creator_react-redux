@@ -1,0 +1,18 @@
+.activeQuiz {
+  padding: 20px;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  border-radius: 5px;
+  margin: 0 10px;
+  box-sizing: border-box;
+}
+.question {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.question span {
+  font-size: 1.2em;
+  max-width: 80%;
+}

@@ -1,0 +1,14 @@
+.answerItem {
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  margin-bottom: 40px;
+  border-radius: 5px;
+  padding: 9px 15px;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+.answerItem.success {
+  background: rgba(161, 240, 69, 0.7);
+}
+.answerItem.error {
+  background: rgba(240, 87, 108, 0.7);
+}
