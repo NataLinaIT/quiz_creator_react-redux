@@ -4,6 +4,7 @@
 * React.js
 * Redux | React-redux
 * Firebase Realtime Database
+* Firebase hosting 
 
 ## Available Scripts
 
